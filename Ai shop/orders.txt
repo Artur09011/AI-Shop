@@ -1,0 +1,24 @@
+Customer Name: Mocha wrw
+Address: cef
+Coffee Ordered: Mocha
+Quantity: 1
+Total Price: $4.00
+
+Customer Name: Raz Tirastvayn
+Address: sed
+Coffee Ordered: Mocha
+Quantity: 2
+Total Price: $8.00
+
+Customer Name: Razmik edr
+Address: drf
+Coffee Ordered: Mocha
+Quantity: 3
+Total Price: $12.00
+
+Customer Name: Arti Vardanyan
+Address: fe
+Coffee Ordered: Latte
+Quantity: 9
+Total Price: $31.50
+

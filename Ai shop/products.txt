@@ -1,0 +1,7 @@
+Espresso 2.50 50
+Cappuccino 3.00 30
+Latte 3.50 28
+Mocha 4.00 15
+Gotcha 14.00 10
+Kinder 10.00 80
+Glace 2.00 12
